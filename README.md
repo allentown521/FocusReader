@@ -23,7 +23,7 @@
 ![微信图片_202010191535234](https://user-images.githubusercontent.com/69662387/167528990-26ef062c-7403-4f23-9ee9-77e478de4cbb.png)
 
 
-FocusReader 是一款有着强大功能的、干净的（完全没有广告）、现代化的、美观的、符合material 设计的获取在线收藏内容的工具
+FocusReader 是一款有着强大功能的、干净的、现代化的、美观的、符合material 设计的获取在线收藏内容的工具
 
 
 
