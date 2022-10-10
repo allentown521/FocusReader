@@ -4,7 +4,7 @@
 (alipay版本为中国的用户准备，它接入了支付宝面对面支付，然后可以在应用内更新，除此之外功能和google play版本是一样的)
 
 ## Where to download the installation package
-1、酷安：https://www.coolapk.com/apk/281052 （暂时被下架了，不允许rss应用吧）
+1、蒲同英：https://www.pgyer.com/focusreader
 
 2、Slide to the bottom, find Releases
 
